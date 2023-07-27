@@ -25,3 +25,4 @@ npm i react-router-dom --save
 ```shell
 
 ```
+![coverage report](https://github.com/carlossiguam/prj-bitacorapy/blob/main/images/delete%20public%20and%20src.png)
