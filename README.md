@@ -20,3 +20,8 @@ npx create-react-app bitacora
 ```shell
 npm i react-router-dom --save
 ```
+
+### Delete all files at folders public and src
+```shell
+
+```
