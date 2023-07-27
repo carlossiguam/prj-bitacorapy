@@ -18,5 +18,5 @@ npx create-react-app bitacora
 ```
 
 ```shell
- bitacora  npm i react-router-dom --save
+npm i react-router-dom --save
 ```
