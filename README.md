@@ -7,3 +7,6 @@ This project show i learn react
 -------------------------------------------------------------------------
 
 ## Create app basis with react
+
+### Prerrequisites
+For the project you need to install nodejs first, preferelly 14.18+, 16+
