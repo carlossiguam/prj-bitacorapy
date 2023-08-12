@@ -27,10 +27,12 @@ npm i react-router-dom --save
 ```
 
 ```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+flowchart TD
+    A[window] --- B[document]
+    B --- C[html]
+    C --- D[body]
+    D --- E[div]
+    D --- F[div]
+    D --- G[script]
 ```
 ![coverage report](https://github.com/carlossiguam/prj-bitacorapy/blob/main/images/delete%20public%20and%20src.png)
