@@ -25,4 +25,12 @@ npm i react-router-dom --save
 ```shell
 
 ```
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 ![coverage report](https://github.com/carlossiguam/prj-bitacorapy/blob/main/images/delete%20public%20and%20src.png)
